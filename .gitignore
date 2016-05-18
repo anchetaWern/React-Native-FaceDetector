@@ -1,5 +1,3 @@
-android/
-
 # OSX
 #
 .DS_Store
@@ -40,3 +38,9 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+android/app/build
+android/build
+android/gradle/wrapper/gradle-wrapper.jar
+android/.gradle
+android/gradlew
+android/gradlew.bat
