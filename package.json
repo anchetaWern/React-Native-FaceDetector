@@ -9,7 +9,7 @@
     "lodash": "^4.11.2",
     "react": "^0.14.8",
     "react-native": "^0.25.1",
-    "react-native-fetch-blob": "^0.3.0",
+    "react-native-fetch-blob": "^0.4.0",
     "react-native-image-picker": "^0.18.15"
   }
 }
